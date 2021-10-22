@@ -79,3 +79,4 @@
 * Create tests for `Integer getNumberOfDogs()`
     * ensure that when `.getNumberOfDogs()` is invoked on the `DogHouse`, the respective number of `Dog` objects is returned.
 
+# AnimalFactoryHw
